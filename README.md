@@ -2,7 +2,7 @@
 
 ## 饥荒Mods
 
-<font color=#999AAA > 注：github只存有改动较多的Mod，其他的可以在steam(sunriver)或wegame(遗失的夏湾)创意工坊搜到。要想下单个文件夹可自行百度。 </font>
+ *注：github只存有改动较多的Mod，其他的可以在steam(sunriver)或wegame(遗失的夏湾)创意工坊搜到。要想下单个文件夹可自行百度。*
 
 <https://github.com/SunRiver-Kun/DSTMods>
 
@@ -22,6 +22,8 @@
 
 - BulletTime：子弹时间，一款平台跳跃游戏。
 <https://github.com/SunRiver-Kun/BulletTime>
+- Don't Stave Travel：由简陋的解密游戏（基于Winform，因为那时没学unity）
+<https://github.com/SunRiver-Kun/Don-t-Stave-Travel>
 
 ## 单文件小游戏
 
