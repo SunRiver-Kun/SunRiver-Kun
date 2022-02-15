@@ -20,11 +20,11 @@
 
 ## 游戏Demo
 
-- BulletTime：子弹时间，一款平台跳跃游戏。
+- BulletTime：子弹时间，一款平台跳跃游戏。  
 <https://github.com/SunRiver-Kun/BulletTime>
-- Tictactoe：井字棋，用到了minmax算法，最多平局（控制台）
+- Tictactoe：井字棋，用到了minmax算法，最多平局（控制台）  
 <https://github.com/SunRiver-Kun/Tictactoe>
-- Don't Stave Travel：由简陋的解密游戏（基于Winform，因为那时没学unity）
+- Don't Stave Travel：由简陋的解密游戏（基于Winform，因为那时没学unity）  
 <https://github.com/SunRiver-Kun/Don-t-Stave-Travel>
 
 ## 单文件小游戏
