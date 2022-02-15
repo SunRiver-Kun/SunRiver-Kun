@@ -22,6 +22,8 @@
 
 - BulletTime：子弹时间，一款平台跳跃游戏。
 <https://github.com/SunRiver-Kun/BulletTime>
+- Tictactoe：井字棋，用到了minmax算法，最多平局（控制台）
+<https://github.com/SunRiver-Kun/Tictactoe>
 - Don't Stave Travel：由简陋的解密游戏（基于Winform，因为那时没学unity）
 <https://github.com/SunRiver-Kun/Don-t-Stave-Travel>
 
@@ -29,7 +31,7 @@
 
 <https://github.com/SunRiver-Kun/MySmallGames>
 
-- Tictactoe：井字棋，用到了minmax算法，最多平局
+
 - 贪吃蛇：很久以前写的了，都快忘了
 
 ## 代码仓库
