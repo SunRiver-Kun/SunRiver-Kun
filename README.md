@@ -29,12 +29,15 @@
 
 ## 单文件小游戏
 
+- 贪吃蛇：很久以前写的了，都快忘了  
 <https://github.com/SunRiver-Kun/MySmallGames>
 
+## Android
 
-- 贪吃蛇：很久以前写的了，都快忘了
+- ShowMap：用高德SDK实现的包括导航/路线规划/定位等的App  
+<https://github.com/SunRiver-Kun/ShowMap>
 
 ## 代码仓库
 
-codes：一些可复用或有趣的代码  
+- codes：一些可复用或有趣的代码  
 <https://github.com/SunRiver-Kun/codes>  
