@@ -20,11 +20,13 @@
 
 ## 游戏Demo
 
-- BulletTime：子弹时间，一款平台跳跃游戏。  
+- CottonPuzzle：迷失岛，解密，完善的场景切换和保存机制，背包系统  
+<https://github.com/SunRiver-Kun/CottonPuzzle>
+- BulletTime：子弹时间，平台跳跃游戏，是第一款用Unity制作的游戏也是第一个团队作品。  
 <https://github.com/SunRiver-Kun/BulletTime>
 - Tictactoe：井字棋，用到了minmax算法，最多平局（控制台）  
 <https://github.com/SunRiver-Kun/Tictactoe>
-- Don't Stave Travel：由简陋的解密游戏（基于Winform，因为那时没学unity）  
+- Don't Stave Travel：在学Unity之前，用Winform写的按钮驱动的简陋的解密游戏  
 <https://github.com/SunRiver-Kun/Don-t-Stave-Travel>
 
 ## 单文件小游戏
