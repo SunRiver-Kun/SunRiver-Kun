@@ -23,6 +23,7 @@ git pull origin master
 - SR_DebugHelper：本地调试工具，获取鼠标下的实体和UI，可视化它的数据
 - SR_DebugHelperExtension：服务器调试工具，打印数据到客户端，获取服务器实体数据
 - 其他mods：火猎狗死亡不燃烧、幸运兽帽子、快速切换皮肤
+- 我的DST教程：<https://blog.csdn.net/weixin_46068322>
 
 ## 笔记
 
